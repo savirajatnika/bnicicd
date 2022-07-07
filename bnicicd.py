@@ -1,1 +1,2 @@
-print ("Hello world") + ("testing CI CD BNI")
+print ("Hello world")
+print ("testng CI CD BNI") 
